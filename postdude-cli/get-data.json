@@ -1,0 +1,9 @@
+{
+    "url": "https://www.rust-lang.org/",
+    "headers": [
+        {
+            "key": "Connection",
+            "value": "keep-alive"
+        }
+    ]
+}
